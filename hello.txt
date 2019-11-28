@@ -4,3 +4,5 @@ hello world£¡
 
 123£¡
 
+add some content to hello.txt
+11111111122222222
